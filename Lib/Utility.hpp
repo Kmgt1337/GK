@@ -6,7 +6,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
-#include <SDL2/SDL.h>
+#include "SDL2/include/SDL2/SDL.h"
 
 extern SDL_Window* window;
 extern SDL_Surface* screen;
